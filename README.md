@@ -11,8 +11,8 @@ pip install -r requirements.txt
 ## Installation
 
 ```bash
-git clone https://github.com/tony-soochow/MMRAR-RL.git
-cd MMRAR-RL
+git clone https://github.com/tony-soochow/MMRAR.git
+cd MMRAR
 ```
 
 ## Training
